@@ -1,0 +1,4 @@
+.canvas-container canvas {
+  border: 6px solid #dddddd;
+  border-radius: 30px;
+}

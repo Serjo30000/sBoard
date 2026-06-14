@@ -1,0 +1,16 @@
+.views {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+
+  margin: 0px 50px;
+}
+
+@media screen and (max-width: 720px) {
+  .views {
+    flex-direction: column;
+    padding-bottom: 120px;
+    gap: 20px;
+  }
+}
